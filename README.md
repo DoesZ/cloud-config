@@ -1,2 +1,2 @@
 # cloud-config
-spring cloud confi
+spring cloud config
